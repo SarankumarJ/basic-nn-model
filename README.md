@@ -6,11 +6,12 @@ To develop a neural network regression model for the given dataset.
 
 ## THEORY
 
-Explain the problem statement
+This dataset presents a captivating challenge due to the intricate relationship between the input and output columns. The complex nature of this connection suggests that there may be underlying patterns or hidden factors that are not readily apparent.
 
 ## Neural Network Model
 
-Include the neural network model diagram.
+![image](https://github.com/SarankumarJ/basic-nn-model/assets/94778101/cf502ba4-af46-4722-a71a-477e7b8af5c7)
+
 
 ## DESIGN STEPS
 
@@ -106,7 +107,7 @@ ai_brain.predict(X_n1_1)
 
 ### New Sample Data Prediction
 
-![image](https://github.com/SarankumarJ/basic-nn-model/assets/94778101/96889a72-d786-49e6-a953-41506a93f6a0)
+![image](https://github.com/SarankumarJ/basic-nn-model/assets/94778101/664d7a3e-5108-4871-beca-65f8edf15227)
 
 
 ## RESULT
